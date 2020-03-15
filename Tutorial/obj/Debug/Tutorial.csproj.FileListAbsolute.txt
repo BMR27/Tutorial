@@ -215,3 +215,6 @@ C:\Users\Andrey Azofeifa\Source\Repos\Tutorial\Tutorial\obj\Debug\Tutorial.cspro
 C:\Users\Andrey Azofeifa\Source\Repos\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CopyComplete
 C:\Users\Andrey Azofeifa\Source\Repos\Tutorial\Tutorial\obj\Debug\Tutorial.dll
 C:\Users\Andrey Azofeifa\Source\Repos\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\Andrey Azofeifa\Source\Repos\Tutorial\Tutorial\bin\EntityFramework.dll
+C:\Users\Andrey Azofeifa\Source\Repos\Tutorial\Tutorial\bin\EntityFramework.xml
+C:\Users\Andrey Azofeifa\Source\Repos\Tutorial\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
